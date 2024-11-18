@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "mocha 'test/**/*.js' --recursive --exit --reporter=spec",
-    "coverage": "npm test && cat ./coverage/lcov.info | coveralls",
-    "coveragelcov": "c8 --reporter=lcov mocha test/**/*.js"
+    "test": "mocha --require @babel/register 'test/**/*.js' --recursive --exit --reporter=spec",
+    "coverage": "npm run coveragelcov && coveralls < ./coverage/lcov.info",
+    "coveragelcov": "c8 --reporter=lcov --reporter=text mocha 'test/**/*.js'"
   },
   "author": "",
   "license": "MIT",
