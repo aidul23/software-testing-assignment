@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/aidul23/software-testing-assignment/badge.svg?branch=main)](https://coveralls.io/github/aidul23/software-testing-assignment?branch=main)
+
 # Student template
 
 ## Purpose of this repository
