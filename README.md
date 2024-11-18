@@ -1,15 +1,13 @@
 [![Coverage Status](https://coveralls.io/repos/github/aidul23/software-testing-assignment/badge.svg?branch=main)](https://coveralls.io/github/aidul23/software-testing-assignment?branch=main)
 
-# Student template
+# **Software Testing Project**
+
+This project demonstrates a comprehensive testing workflow for a JavaScript utility library. It includes unit tests, automated CI integration via GitHub Actions, and coverage reporting through Coveralls.
 
 ## Group Members:
 
-Md Aidul Islam, Id: 152151564 
+Md Aidul Islam, Id: 152151564 <br>
 MD Iftekhar Hossain Tanveer, ID: 152258658 
-
-﻿# **Software Testing Project**
-
-This project demonstrates a comprehensive testing workflow for a JavaScript utility library. It includes unit tests, automated CI integration via GitHub Actions, and coverage reporting through Coveralls.
 
 ---
 
