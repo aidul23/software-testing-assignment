@@ -46,7 +46,6 @@ describe('add.js', () => {
   it('Add two large positive numbers', () => {
     expect(add(999999999, 1)).to.equal(1000000000);
   });
-
   // Additional Test case 9
   it('Add two large negative numbers', () => {
     expect(add(-999999999, -1)).to.equal(-1000000000);
