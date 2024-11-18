@@ -4,10 +4,10 @@
 
 This project demonstrates a comprehensive testing workflow for a JavaScript utility library. It includes unit tests, automated CI integration via GitHub Actions, and coverage reporting through Coveralls.
 
-## Group Members:
+## **Group Members**
 
-Md Aidul Islam, Id: 152151564 <br>
-MD Iftekhar Hossain Tanveer, ID: 152258658 
+Md Aidul Islam, **ID: 152151564** <br>
+MD Iftekhar Hossain Tanveer, **ID: 152258658** 
 
 ---
 
